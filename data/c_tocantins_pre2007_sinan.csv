@@ -1,0 +1,25 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Tocantins
+Notificações por Ano 1º Sintoma(s) e Faixa Etária
+Crit. Confirmação: Laboratorial, Vínculo-Epidemiológico
+Período:2001-2006
+"Ano 1º Sintoma(s)";"<1 Ano";"1-4";"5-9";"10-14";"15-19";"20-39";"40-59";"60-64";"65-69";"70-79";"80 e +";"Total"
+"2001";42;121;184;350;469;2108;1066;130;92;76;25;4663
+"2002";15;51;97;162;223;819;425;50;30;36;6;1914
+"2003";18;38;98;175;225;829;359;45;27;24;6;1844
+"2004";6;29;101;132;174;617;313;43;25;31;6;1477
+"2005";14;70;148;272;358;1482;654;63;52;43;13;3169
+"2006";33;102;283;471;665;2517;1218;128;83;94;19;5613
+"Total";128;411;911;1562;2114;8372;4035;459;309;304;75;18680
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan 
+ Notas:
+ 
+ Incluídas notificações de indivíduos residentes no Brasil, independente de sua confirmação, exceto os descartados,
+    pois em situações de epidemia nem sempre é possível confirmar todos os casos.
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para tabular dados em série histórica selecione na linha a variável de interesse, na Coluna Ano dos 1ºs sintomas;
+    em Períodos Disponíveis assinale o ano inicial da série e todos os posteriores até o ano atual (p/ incluir casos notificados
+    com atraso) e em Seleções Disponíveis assinale os anos dos 1ºs sintomas (ex: série histórica de nº de casos, 2001 a 2005:
+    selecione na linha UF de residência, na Coluna Ano de 1ºs sintomas, em Períodos disponíveis-2001 até o ano atual e
+    em Seleções assinale Ano de 1ºs sintomas de 2001 a 2005).
+ Para cálculo da incidência utilize locais de residência.
+ 

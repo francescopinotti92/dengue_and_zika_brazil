@@ -1,0 +1,25 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Amapá
+Notificações por Ano 1º Sintoma(s) e Faixa Etária
+Crit. Confirmação: Laboratorial, Vínculo-Epidemiológico
+Período:2001-2006
+"Ano 1º Sintoma(s)";"<1 Ano";"1-4";"5-9";"10-14";"15-19";"20-39";"40-59";"60-64";"65-69";"70-79";"80 e +";"Total"
+"2001";40;41;107;175;310;1295;659;85;64;90;22;2888
+"2002";10;21;38;56;86;308;172;24;5;12;5;737
+"2003";36;52;172;293;405;1738;893;109;84;79;18;3879
+"2004";32;27;83;175;235;1272;600;70;58;44;5;2601
+"2005";26;27;88;128;234;1192;593;57;37;36;12;2430
+"2006";20;31;85;139;164;739;408;39;25;29;11;1690
+"Total";164;199;573;966;1434;6544;3325;384;273;290;73;14225
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan 
+ Notas:
+ 
+ Incluídas notificações de indivíduos residentes no Brasil, independente de sua confirmação, exceto os descartados,
+    pois em situações de epidemia nem sempre é possível confirmar todos os casos.
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para tabular dados em série histórica selecione na linha a variável de interesse, na Coluna Ano dos 1ºs sintomas;
+    em Períodos Disponíveis assinale o ano inicial da série e todos os posteriores até o ano atual (p/ incluir casos notificados
+    com atraso) e em Seleções Disponíveis assinale os anos dos 1ºs sintomas (ex: série histórica de nº de casos, 2001 a 2005:
+    selecione na linha UF de residência, na Coluna Ano de 1ºs sintomas, em Períodos disponíveis-2001 até o ano atual e
+    em Seleções assinale Ano de 1ºs sintomas de 2001 a 2005).
+ Para cálculo da incidência utilize locais de residência.
+ 

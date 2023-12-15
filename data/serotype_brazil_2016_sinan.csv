@@ -1,0 +1,51 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Brasil
+Casos Prováveis por UF de notificação e Sorotipo                     
+Sorotipo                     : DEN 1, DEN 2, DEN 3, DEN 4
+Período:2016
+"UF de notificação";"DEN 1";"DEN 2";"DEN 3";"DEN 4";"Total"
+"11 Rondônia";79;-;-;2;81
+"12 Acre";-;20;-;-;20
+"13 Amazonas";1;-;3;4;8
+"15 Pará";7;2;-;2;11
+"16 Amapá";2;-;-;-;2
+"17 Tocantins";4;-;-;1;5
+"21 Maranhão";17;-;-;8;25
+"22 Piauí";8;-;1;-;9
+"23 Ceará";29;-;-;-;29
+"24 Rio Grande do Norte";16;1;-;1;18
+"25 Paraíba";58;1;-;-;59
+"26 Pernambuco";6;2;2;2;12
+"27 Alagoas";1;-;-;-;1
+"28 Sergipe";2;-;-;-;2
+"29 Bahia";28;1;1;3;33
+"31 Minas Gerais";491;6;2;6;505
+"32 Espírito Santo";38;-;-;-;38
+"33 Rio de Janeiro";136;-;1;17;154
+"35 São Paulo";359;52;-;23;434
+"41 Paraná";1823;5;27;6;1861
+"42 Santa Catarina";4;-;-;-;4
+"43 Rio Grande do Sul";125;2;-;-;127
+"50 Mato Grosso do Sul";177;1;-;-;178
+"51 Mato Grosso";126;2;-;1;129
+"52 Goiás";156;12;2;26;196
+"53 Distrito Federal";92;26;3;4;125
+"Total";3785;133;42;106;4066
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
+ A partir de 2020 o estado do Espírito Santo passou a utilizar sistema o e-SUS Vigilância em Saúde. Portanto, para os casos de Arbovirose urbanas do Espírito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikun
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiologica, em cada período pode apresentar notificações com data de notificação do ano anterior (semana epidemiologica 52 ou 53) e posterior (semana epide
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 25/01/2022, sujeitos a revisão.
+ *Data da publicação dos dados 03/2022.
+ 

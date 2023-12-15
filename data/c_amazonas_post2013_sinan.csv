@@ -1,0 +1,34 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Amazonas
+Casos Prováveis por Ano notificação e Faixa Etária
+Criterio conf.: Laboratórial, Clínico-epidemiológico
+Período:2014-2021
+"Ano notificação";"Em branco/IGN";"<1 Ano";"1-4";"5-9";"10-14";"15-19";"20-39";"40-59";"60-64";"65-69";"70-79";"80 e +";"Total"
+"2013";-;-;1;2;-;-;15;2;1;-;-;-;21
+"2014";2;110;156;250;347;393;1534;848;116;63;71;24;3914
+"2015";-;42;90;129;221;296;1117;614;80;44;58;23;2714
+"2016";-;44;62;85;159;170;705;406;57;28;36;24;1776
+"2017";-;26;59;110;177;191;647;356;39;29;32;14;1680
+"2018";-;11;31;43;54;73;284;112;13;13;7;9;650
+"2019";-;48;121;194;285;348;1112;654;70;69;61;28;2990
+"2020";1;52;128;302;488;406;1586;1057;123;83;103;46;4375
+"2021";3;146;393;922;1189;750;2472;1443;187;114;114;47;7780
+"Total";6;479;1041;2037;2920;2627;9472;5492;686;443;482;215;25900
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
+ A partir de 2020 o estado do Espírito Santo passou a utilizar sistema o e-SUS Vigilância em Saúde. Portanto, para os casos de Arbovirose urbanas do Espírito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikun
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiologica, em cada período pode apresentar notificações com data de notificação do ano anterior (semana epidemiologica 52 ou 53) e posterior (semana epide
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 25/01/2022, sujeitos a revisão.
+ *Data da publicação dos dados 03/2022.
+ 

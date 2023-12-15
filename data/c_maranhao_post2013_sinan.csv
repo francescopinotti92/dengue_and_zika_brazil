@@ -1,0 +1,33 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Maranhão
+Casos Prováveis por Ano notificação e Faixa Etária
+Criterio conf.: Laboratórial, Clínico-epidemiológico
+Período:2014-2021
+"Ano notificação";"Em branco/IGN";"<1 Ano";"1-4";"5-9";"10-14";"15-19";"20-39";"40-59";"60-64";"65-69";"70-79";"80 e +";"Total"
+"2014";-;88;124;193;160;181;491;281;39;21;27;11;1616
+"2015";-;113;218;382;338;454;2068;1169;128;83;117;56;5126
+"2016";3;275;456;824;1007;1396;5158;2595;409;309;398;191;13021
+"2017";-;133;284;415;504;655;2026;1010;143;146;189;89;5594
+"2018";1;72;73;117;129;171;667;327;42;43;24;18;1684
+"2019";-;165;251;524;571;468;1384;630;77;58;81;18;4227
+"2020";-;71;74;139;148;208;691;357;42;25;38;15;1808
+"2021";-;47;93;139;136;90;334;195;19;22;13;3;1091
+"Total";4;964;1573;2733;2993;3623;12819;6564;899;707;887;401;34167
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
+ A partir de 2020 o estado do Espírito Santo passou a utilizar sistema o e-SUS Vigilância em Saúde. Portanto, para os casos de Arbovirose urbanas do Espírito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikun
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiologica, em cada período pode apresentar notificações com data de notificação do ano anterior (semana epidemiologica 52 ou 53) e posterior (semana epide
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 25/01/2022, sujeitos a revisão.
+ *Data da publicação dos dados 03/2022.
+ 

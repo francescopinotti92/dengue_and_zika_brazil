@@ -1,0 +1,34 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Rio Grande do Sul
+Casos Prováveis por Ano notificação e Faixa Etária
+Criterio conf.: Laboratórial, Clínico-epidemiológico
+Período:2014-2021
+"Ano notificação";"Em branco/IGN";"<1 Ano";"1-4";"5-9";"10-14";"15-19";"20-39";"40-59";"60-64";"65-69";"70-79";"80 e +";"Total"
+"2014";-;-;-;1;5;8;39;21;3;3;3;3;86
+"2015";-;7;10;31;59;87;399;457;79;62;72;26;1289
+"2016";1;13;26;68;133;229;904;716;152;102;107;28;2479
+"2017";-;-;-;-;2;2;9;9;1;2;-;-;25
+"2018";-;-;-;-;3;-;11;5;2;3;1;-;25
+"2019";-;8;19;36;82;107;528;407;84;41;39;9;1360
+"2020";-;30;59;110;208;267;1338;1122;170;128;160;46;3638
+"2021";-;81;128;360;527;708;3552;2983;544;471;596;233;10183
+"2022";-;-;-;1;-;-;-;-;-;-;-;-;1
+"Total";1;139;242;607;1019;1408;6780;5720;1035;812;978;345;19086
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
+ A partir de 2020 o estado do Espírito Santo passou a utilizar sistema o e-SUS Vigilância em Saúde. Portanto, para os casos de Arbovirose urbanas do Espírito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikun
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiologica, em cada período pode apresentar notificações com data de notificação do ano anterior (semana epidemiologica 52 ou 53) e posterior (semana epide
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 25/01/2022, sujeitos a revisão.
+ *Data da publicação dos dados 03/2022.
+ 

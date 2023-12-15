@@ -1,0 +1,34 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Brasil
+Casos Prováveis por Mês Notificação e UF de notificação
+Criterio conf.: Laboratórial, Clínico-epidemiológico
+Período:2007
+"Mês Notificação";"RO";"AC";"AM";"RR";"PA";"AP";"TO";"MA";"PI";"CE";"RN";"PB";"PE";"AL";"SE";"BA";"MG";"ES";"RJ";"SP";"PR";"SC";"RS";"MS";"MT";"GO";"DF";"Total"
+"Janeiro";179;48;32;129;679;409;1452;1015;644;1309;288;185;617;220;30;481;1480;437;1130;3729;455;11;12;3542;2346;1194;73;22126
+"Fevereiro";207;95;74;47;1153;511;2549;2072;611;2503;416;589;981;223;51;566;2573;798;2417;12712;1777;24;19;4902;2897;2184;100;43051
+"Marco";198;97;161;25;1848;905;2829;2454;769;2828;914;1172;2219;512;52;1126;6585;931;4728;31714;7333;20;23;4017;3425;2874;146;79905
+"Abril";115;101;137;30;1393;637;1610;1568;1037;4501;717;1099;4328;544;75;1018;7754;1471;5580;31520;10459;25;244;1667;1993;1846;112;81581
+"Maio";55;23;109;44;718;571;1124;1780;2128;5311;697;670;2417;1272;42;739;4740;1242;4471;18778;5230;21;71;665;1364;1307;138;55727
+"Junho";50;8;119;47;359;179;594;913;2795;5005;618;394;1604;1282;47;485;1093;497;1721;3255;484;4;3;209;736;706;38;23245
+"Julho";60;5;143;93;300;84;257;544;790;3323;671;377;1392;1613;246;463;326;293;1299;1372;120;5;1;78;392;422;36;14705
+"Agosto";42;2;97;86;330;66;187;357;336;2146;585;319;711;1552;118;338;123;136;649;513;36;1;5;26;222;275;34;9292
+"Setembro";60;2;84;46;376;62;151;160;155;1229;401;186;298;683;54;156;85;90;313;259;41;1;1;7;142;170;13;5225
+"Outubro";158;7;103;22;756;53;393;152;92;1218;371;149;318;539;50;271;138;84;291;282;48;3;1;27;247;378;22;6173
+"Novembro";284;39;230;19;1185;11;567;137;62;936;236;219;250;505;41;337;203;107;513;377;86;5;2;85;437;590;6;7469
+"Dezembro";642;78;272;18;1586;39;619;116;69;829;314;204;258;432;63;383;212;102;1087;411;82;2;2;92;611;975;12;9510
+"Total";2050;505;1561;606;10683;3527;12332;11268;9488;31138;6228;5563;15393;9377;869;6363;25312;6188;24199;104922;26151;122;384;15317;14812;12921;730;358009
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ ncluídas notificações de indivíduos residentes no Brasil, independente de sua confirmação, exceto os descartados, pois em situações de epidemia nem sempre é possível confirmar todos os casos.
+ Para tabular os óbitos por dengue até 2012, deve-se considerar apenas os casos graves (DCC, FHD, SCD, DSA, DG) em que a evolução seja "óbito pelo agravo notificado" com critério de confirmação laboratorial e clínico-epidemiológico. A partir de 2013,
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2007 atualizados em 30/08/2009.
+ Dados de 2008 atualizados em 17/03/2011.
+ Dados de 2009 atualizados em 23/06/2011.
+ Dados de 2010 atualizados em 18/06/2011.
+ Dados de 2011 atualizados em 11/01/2012.
+ Dados de 2012 atualizados em 25/07/2013.
+ Dados de 2013 atualizados em 10/07/2014.
+ Data da publicação dos dados 04/02/2019.
+ 
